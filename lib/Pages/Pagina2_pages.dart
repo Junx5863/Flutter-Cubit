@@ -46,7 +46,7 @@ class Pagina2Page extends StatelessWidget {
 
             }),
             MaterialButton(
-              child: Text('Añador Profesión', style: TextStyle(color:  Colors.white),),
+              child: Text('Añadir Profesión', style: TextStyle(color:  Colors.white),),
               color: Colors.blue,
             
               onPressed: (){
